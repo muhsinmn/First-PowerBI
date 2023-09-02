@@ -1,0 +1,18 @@
+power bi......
+
+>Dublicate
+click dublicaTE from add column
+
+>duplicate column by space(delimeter)
+by right click clicj delimeter
+
+>split column by data of last 3years
+right click > slipt column> in the previous> click how u want to slip > ok
+
+>transform to UPPERCASE letters
+right click on the top and click transform> UPPERCASE
+
+
+>merge tables
+from merger queries
+
